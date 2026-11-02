@@ -1,0 +1,10 @@
+[nuvio-bridge 51112832] review-measure bitmap=2880x1546 snapshot=22.71ms push=17.29ms
+[nuvio-bridge 51113984] review-measure bitmap=2880x1546 snapshot=16.59ms push=17.44ms
+[nuvio-bridge 51115148] review-measure bitmap=2880x1546 snapshot=17.51ms push=16.81ms
+[nuvio-bridge 51116366] review-measure bitmap=2880x1546 snapshot=18.19ms push=17.91ms
+[nuvio-bridge 51117564] review-measure bitmap=2880x1546 snapshot=17.75ms push=17.12ms
+[nuvio-bridge 51119416] review-measure bitmap=2880x1546 snapshot=39.09ms push=16.34ms
+[nuvio-bridge 51120571] review-measure bitmap=2880x1546 snapshot=17.64ms push=17.22ms
+[nuvio-bridge 51121969] review-measure bitmap=2880x1546 snapshot=22.49ms push=19.52ms
+[nuvio-bridge 51123209] review-measure bitmap=2880x1546 snapshot=19.85ms push=16.54ms
+[nuvio-bridge 51124529] review-measure bitmap=2880x1546 snapshot=20.99ms push=18.02ms

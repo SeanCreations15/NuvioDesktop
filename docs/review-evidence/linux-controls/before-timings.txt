@@ -1,0 +1,2 @@
+[nuvio-bridge 51084681] review-measure bitmap=5760x3094 snapshot=98.58ms push=87.79ms
+[nuvio-bridge 51090585] review-measure bitmap=5760x3094 snapshot=92.89ms push=86.15ms
